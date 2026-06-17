@@ -1,4 +1,4 @@
-# Yayasan Surabaya Mengaji
+# Yayasan Surabaya Mengaji Official (YSMO)
 
 Yayasan Surabaya Mengaji Official adalah lembaga berbadan hukum yayasan yang bergerak di bidang pendidikan, dakwah, sosial, dan muamalah.
 
@@ -10,7 +10,7 @@ Melalui berbagai program dan layanan yang dikembangkan, yayasan berkomitmen untu
 * 🔄 Continuous Development & Maintenance
 * 🔒 Secure & Scalable Infrastructure
 
-Repository dalam organisasi ini digunakan untuk pengembangan dan pengelolaan berbagai layanan digital yang mendukung operasional serta program-program Yayasan Surabaya Mengaji.
+Repository dalam organisasi ini digunakan untuk pengembangan dan pengelolaan berbagai layanan digital yang mendukung operasional serta program-program Yayasan Surabaya Mengaji Official.
 
 ## Contact
 
@@ -18,4 +18,4 @@ Repository dalam organisasi ini digunakan untuk pengembangan dan pengelolaan ber
 
 ---
 
-© Yayasan Surabaya Mengaji. All rights reserved.
+© Yayasan Surabaya Mengaji Official. All rights reserved.
