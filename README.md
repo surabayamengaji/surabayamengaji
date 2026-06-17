@@ -12,4 +12,4 @@ Repository dalam organisasi ini digunakan untuk pengembangan dan pengelolaan ber
 
 ---
 
-© Yayasan Surabaya Mengaji. All rights reserved.
+© Yayasan Surabaya Mengaji Official. All rights reserved.
